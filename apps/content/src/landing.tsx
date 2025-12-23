@@ -15,7 +15,7 @@ function Landing(): React.JSX.Element {
               <div className="flex flex-col justify-center space-y-4">
                 <div className="space-y-2">
                   <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl">
-                    Your Product, Your Vision, Our Platform
+                    Ton ERP, Ta productivité, Notre priorité
                   </h1>
                   <p className="max-w-[600px] text-muted-foreground md:text-xl">
                     Empower your business with our cutting-edge solution.
